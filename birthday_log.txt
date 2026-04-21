@@ -1,0 +1,56 @@
+2026-03-19 16:01:08  INFO      Loaded 2 contacts from contacts.csv
+2026-03-19 16:10:38  INFO      Loaded 2 contacts from contacts.csv
+2026-03-19 16:11:11  INFO      Loaded 2 contacts from contacts.csv
+2026-03-19 16:16:49  INFO      Loaded 2 contacts from contacts.csv
+2026-03-19 16:18:50  INFO      Loaded 2 contacts from contacts.csv
+2026-03-19 16:21:22  INFO      Loaded 2 contacts from contacts.csv
+2026-03-19 16:30:55  INFO      Loaded 43 contacts from contacts.csv
+2026-03-19 17:30:39  INFO      Loaded 43 contacts from contacts.csv
+2026-03-19 17:42:06  INFO      Loaded 43 contacts from contacts.csv
+2026-03-19 17:48:37  INFO      Loaded 43 contacts from contacts.csv
+2026-03-19 17:51:43  INFO      Loaded 43 contacts from contacts.csv
+2026-03-19 18:02:59  INFO      Loaded 43 contacts from contacts.csv
+2026-03-20 01:01:06  INFO      Loaded 43 contacts from contacts.csv
+2026-03-20 01:01:06  INFO      No birthdays today. Nothing to send.
+2026-03-20 01:01:59  INFO      Loaded 43 contacts from contacts.csv
+2026-03-28 08:40:02  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '919353841873', 'birthday': ''}
+2026-03-28 08:40:02  INFO      Loaded 58 contacts from contacts.csv
+2026-03-28 08:41:28  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '919353841873', 'birthday': ''}
+2026-03-28 08:41:28  INFO      Loaded 58 contacts from contacts.csv
+2026-03-28 08:42:15  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '919353841873', 'birthday': ''}
+2026-03-28 08:42:15  INFO      Loaded 58 contacts from contacts.csv
+2026-03-28 08:42:59  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '919353841873', 'birthday': ''}
+2026-03-28 08:42:59  INFO      Loaded 58 contacts from contacts.csv
+2026-03-28 08:44:39  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '919353841873', 'birthday': ''}
+2026-03-28 08:44:39  INFO      Loaded 58 contacts from contacts.csv
+2026-03-28 08:45:14  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '919353841873', 'birthday': ''}
+2026-03-28 08:45:14  INFO      Loaded 58 contacts from contacts.csv
+2026-03-28 08:47:35  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-03-28 08:47:35  INFO      Loaded 58 contacts from contacts.csv
+2026-03-30 10:56:14  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-03-30 10:56:14  INFO      Loaded 58 contacts from contacts.csv
+2026-04-04 00:08:37  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-04 00:08:37  INFO      Loaded 58 contacts from contacts.csv
+2026-04-04 00:09:30  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-04 00:09:30  INFO      Loaded 58 contacts from contacts.csv
+2026-04-04 00:16:58  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-04 00:16:58  INFO      Loaded 58 contacts from contacts.csv
+2026-04-04 00:21:49  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-04 00:21:49  INFO      Loaded 58 contacts from contacts.csv
+2026-04-06 23:41:19  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-06 23:41:19  INFO      Loaded 58 contacts from contacts.csv
+2026-04-06 23:47:06  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-06 23:47:06  INFO      Loaded 58 contacts from contacts.csv
+2026-04-14 23:59:33  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-14 23:59:33  INFO      Loaded 58 contacts from contacts.csv
+2026-04-14 23:59:33  INFO      No birthdays today. Nothing to send.
+2026-04-15 00:00:25  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-15 00:00:25  INFO      Loaded 58 contacts from contacts.csv
+2026-04-15 00:02:08  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-15 00:02:08  INFO      Loaded 58 contacts from contacts.csv
+2026-04-15 00:04:02  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-15 00:04:02  INFO      Loaded 58 contacts from contacts.csv
+2026-04-21 20:37:23  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-21 20:37:23  INFO      Loaded 58 contacts from contacts.csv
+2026-04-21 20:39:39  WARNING   Row 11: skipping incomplete entry — {'name': 'Augustine Neil', 'phone': '9353841873', 'birthday': ''}
+2026-04-21 20:39:39  INFO      Loaded 58 contacts from contacts.csv
